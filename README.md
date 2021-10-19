@@ -22,7 +22,7 @@ Food Recommendation System based on Ingredients and Cuisine
 
 
 
-
+<br/>
 ### How to install Dependencies
 #### `$ pip install -r requirements.txt`
 
