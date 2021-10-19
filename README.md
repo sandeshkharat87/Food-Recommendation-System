@@ -7,7 +7,6 @@ Food Recommendation System based on Ingredients and Cuisine
 
 #### Result
 
-```
 
 <img src="images/f1.png" width="600"  >
 
@@ -19,17 +18,14 @@ Food Recommendation System based on Ingredients and Cuisine
 <img src="images/f3.png" width="600"  >
 
 
-```
 
 
 
 
 
-```
 ### How to install Dependencies
 #### `$ pip install -r requirements.txt`
-```
-```
+
+
 ### How to run website Locally
 #### `$ streamlit run app.py`
-```
