@@ -7,7 +7,7 @@ Food Recommendation System based on Ingredients and Cuisine
 
 #### Result
 
-<img src="images/food.gif" width="1000"  >
+<img src="images/food.gif" width="700"  >
 
 ---
 
