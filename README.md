@@ -1,4 +1,4 @@
-# Food_Recommendation_System
+# Food Recommendation System
 Food Recommendation System based on Ingredients and Cuisine
 
 ### Model recommends the food based on the Ingredients and Cuisine
@@ -8,6 +8,7 @@ Food Recommendation System based on Ingredients and Cuisine
 #### Result
 
 <img src="images/food.gif" width="600"  >
+<br/>
 
 <img src="images/f1.png" width="600"  >
 
